@@ -1,0 +1,22 @@
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.exe.config
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.exe
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.pdb
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.Properties.Resources.resources
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.GenerateResource.cache
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.CoreCompileInputs.cache
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.exe
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.pdb
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\IrisSkin2.dll
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.Form1.resources
+D:\桌面\在线更新\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.CopyComplete
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.Form1.resources
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.Properties.Resources.resources
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.GenerateResource.cache
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.CoreCompileInputs.cache
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.exe
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.pdb
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.exe.config
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.exe
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\OnlineUpdateProject.pdb
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\bin\Debug\IrisSkin2.dll
+D:\桌面\自动更新\在线更新 自己\OnlineUpdateProject\OnlineUpdateProject\obj\Debug\OnlineUpdateProject.csproj.CopyComplete
